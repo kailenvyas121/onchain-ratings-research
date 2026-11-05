@@ -28,7 +28,7 @@ Run everything: `python engine/run_all.py`. The pipeline is offline. Only `updat
 | DefiLlama back-filling or glitches | Checked against the vault contracts at the snapshot hour | ✔ Spark: max 0.10%. ✘ Lista history can't be checked (no BNB archive RPC) |
 | Choosing vaults by outcome | Every vault with an address table in Credora's public archive is in. None were picked | ✔ |
 | Choosing Stream because we know it failed | Stream is labelled a **positive control**: it shows the test *can* see a run. It is not evidence about rated vaults | ✔ Framing |
-| Using the 2026 scale on February grades | All 260 grades fit the current bands | Partly: needs a Feb 2026 Wayback copy (Seb) |
+| Using the 2026 scale on February grades | All 260 grades fit the current bands | Partly: needs a Feb 2026 Wayback copy |
 
 ## 3. Overfitting: did our choices create the result?
 
@@ -157,7 +157,7 @@ These were added after seeing results, so they are logged here.
 | **RedStone deal date** | 4 Sep 2025 (RedStone blog) | Confirmed |
 | **FCIC quote** | p. xxv, checked against the page image: "83% of the mortgage securities rated triple-A that year ultimately were downgraded"; also "the pressure from financial firms that paid for the ratings" | Confirmed |
 | **Credora loss record** | None published (searched 13 Oct 2026); docs mention backtests but give no results | "No published loss record" |
-| **Stream withdrawal terms** | No documented queue; users reported delays about 10 hours before the 4 Nov disclosure | Still open (Seb) |
+| **Stream withdrawal terms** | No documented queue; users reported delays about 10 hours before the 4 Nov disclosure | Still open |
 
 ## 12. Adversarial pass on the core claims (`attack_core_claims.py`)
 

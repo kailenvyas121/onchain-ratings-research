@@ -4,7 +4,7 @@ Do crypto credit ratings mean anything yet? Rating agencies started grading DeFi
 
 All the data, code and charts are here. Every number traces to a public source.
 
-By **Kailen Vyas** and **Seb** (research for *On The Block*, Oct–Nov 2026).
+By **Kailen Vyas** (research for *On The Block*, Oct–Nov 2026).
 
 ---
 
@@ -135,7 +135,7 @@ Peak size of the five algorithmic stablecoins added back, each confirmed above $
 
 ## License
 - Code: MIT (see `LICENSE`).
-- Charts and derived tables: CC BY 4.0 (credit "Kailen Vyas and Seb, Onchain Ratings Research").
+- Charts and derived tables: CC BY 4.0 (credit "Kailen Vyas, Onchain Ratings Research").
 - Third-party data stays under its providers' terms.
 
 Code and charts were built with AI assistance (Claude). Analysis choices and conclusions are the authors'.
