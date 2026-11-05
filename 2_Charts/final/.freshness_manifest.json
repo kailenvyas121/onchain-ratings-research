@@ -1,0 +1,52 @@
+{
+ "chart1_translation.png": {
+  "scripts/chart_cb.py": "e0d258807fa3650a",
+  "scripts/house_style.py": "3edd920b53cdd426",
+  "data/processed/credora_grades.csv": "d3b3f6197b571060",
+  "data/processed/extra_independent_mapping.csv": "99500569fdaa21a7",
+  "data/raw/llama_charts": "4dc268a97b13e4bd"
+ },
+ "chart2_crossings.png": {
+  "scripts/chart_cb.py": "e0d258807fa3650a",
+  "scripts/house_style.py": "3edd920b53cdd426",
+  "data/processed/credora_grades.csv": "d3b3f6197b571060",
+  "data/raw/llama_charts": "4dc268a97b13e4bd"
+ },
+ "chart3_yield.png": {
+  "scripts/chart_cb.py": "e0d258807fa3650a",
+  "scripts/house_style.py": "3edd920b53cdd426",
+  "data/processed/bond_spreads.csv": "d0a4004c2294ff41",
+  "data/processed/vault_spreads.csv": "bee79135d25cf698",
+  "data/raw/fred/BAMLC1A0C13Y.csv": "16416dcf27815209",
+  "data/processed/credora_grades.csv": "d3b3f6197b571060"
+ },
+ "chart4_ratings_vs_warning.png": {
+  "scripts/chart_cb.py": "e0d258807fa3650a",
+  "scripts/house_style.py": "3edd920b53cdd426",
+  "data/processed/grade_events.csv": "a28db732201ee992",
+  "data/processed/bnb_vault_token_flows.csv": "ccd8c39cbde5c886",
+  "data/processed/extra_out_of_sample.csv": "6b26b9a3ba48317a",
+  "data/processed/robustness_positive_control.csv": "c0a289363dc4fd89"
+ },
+ "chart5_usdt.png": {
+  "scripts/chart_cb.py": "e0d258807fa3650a",
+  "scripts/house_style.py": "3edd920b53cdd426",
+  "data/raw/llama_stablecoin_1.json": "4eb73ef946c176a8",
+  "data/raw/llama_stablecoin_2.json": "a3c2ffee7adbbaff"
+ },
+ "chart6_xusd_market.png": {
+  "scripts/chart_cb.py": "e0d258807fa3650a",
+  "scripts/house_style.py": "3edd920b53cdd426",
+  "data/raw/xusd_arb_daily.json": "db5dd3796c0b7bfe"
+ },
+ "chart7_curators.png": {
+  "scripts/chart_cb.py": "e0d258807fa3650a",
+  "scripts/house_style.py": "3edd920b53cdd426",
+  "data/processed/curator_concentration.csv": "864b0d3e600d7892"
+ },
+ "table1_grade_changes.png": {
+  "scripts/chart_cb.py": "e0d258807fa3650a",
+  "scripts/house_style.py": "3edd920b53cdd426",
+  "data/processed/grade_events.csv": "a28db732201ee992"
+ }
+}

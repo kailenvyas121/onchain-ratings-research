@@ -1,0 +1,29 @@
+coin,mech,first_break,supply_mn,low_180d,price_now
+TerraClassicUSD,algorithmic,2022-05-12,18609,0.006,0.005
+Fei USD,algorithmic,2021-04-08,2336,0.714,0.999
+Neutrino USD,algorithmic,2022-04-06,908,0.824,0.016
+Alchemix USD,algorithmic,2021-05-15,265,0.767,0.948
+Bean,algorithmic,2021-09-23,35,0.254,0.253
+USDX Money USDX,crypto-backed,2025-11-08,683,0.01,0.009
+Vai,crypto-backed,2021-02-25,219,0.774,0.997
+YU,crypto-backed,2025-09-17,129,0.94,1.0
+Elixir deUSD,crypto-backed,2025-11-08,116,0.001,0.001
+Resolv USD,crypto-backed,2026-03-25,103,0.093,0.079
+pmUSD,crypto-backed,2026-05-06,98,0.359,0.662
+eUSD (V2),crypto-backed,2024-01-14,90,0.827,0.808
+Main Street USD,crypto-backed,2026-06-22,78,0.209,0.557
+sUSD,crypto-backed,2025-04-01,53,0.731,0.232
+Metronome Synth USD,crypto-backed,2026-08-02,43,0.461,0.885
+Lista USD,crypto-backed,2022-12-05,32,0.896,0.996
+Magic Internet Money,crypto-backed,2026-06-14,28,0.018,0.046
+Orby USC,crypto-backed,2024-06-07,22,0.804,1.003
+USDX,crypto-backed,2020-11-23,18,0.681,0.684
+TOR,crypto-backed,2024-07-04,17,0.006,0.016
+Mu Digital AZND,crypto-backed,2026-07-09,16,0.178,0.178
+dForce USD,crypto-backed,2025-11-08,14,0.418,0.425
+iUSD,crypto-backed,2023-10-08,12,0.729,0.986
+Pinto,crypto-backed,2025-02-23,12,0.345,0.108
+YUSD Stablecoin,crypto-backed,2024-02-12,12,0.387,0.995
+HUSD,fiat-backed,2022-10-31,221,0.053,0.034
+Anzen USDz,fiat-backed,2025-03-09,103,0.925,0.978
+AP USDA,fiat-backed,2026-08-02,83,0.813,0.992

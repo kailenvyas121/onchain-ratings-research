@@ -1,0 +1,9 @@
+hack,date,stolen_mn,from_attacker_or_freeze_mn,paid_by_backer_mn,not_recovered_mn,who_paid,source
+Ronin Bridge,2022-03-23,624,0,434,190,"Sky Mavis, founders and a Binance-led raise repaid users 1:1; Axie DAO's 56k ETH left unbacked",https://blog.roninchain.com/p/the-ronin-bridge-is-open-
+Poly Network,2021-08-10,611,611,0,0,"Attacker returned funds; Tether reissued frozen USDT",https://www.theblock.co/linked/114390
+Wormhole (Portal),2022-02-02,326,0,326,0,"Jump Crypto replaced 120k ETH within a day",https://blockworks.com/news/jump-crypto-wormhole-hack-recovery
+Drift,2026-04-01,295,0,4,291,"Recovery tokens; pool of ~$3.8mn at launch, Tether pledges up to $127.5mn over time",https://decrypt.co/366897/how-solana-exchange-drift-repay-users-295-million-crypto-hack
+Kelp rsETH,2026-04-18,292,0,292,0,"DeFi United coalition (Aave, Consensys/Lubin, Mantle loan, LayerZero) refilled rsETH",https://www.theblock.co/post/399118/defi-united-detailed-plan
+Cetus,2025-05-22,223,162,37,24,"Sui validators froze $162mn; Sui Foundation loan and Cetus reserves; rest paid in CETUS tokens",https://www.theblock.co/post/357386/sui-dex-cetus-protocol-restarts-platform-after-recovering-from-223-million-exploit
+Euler V1,2023-03-13,197,177,0,20,"Attacker returned all recoverable funds",https://www.theblock.co/post/224705/euler-hacker-returns-funds
+Nomad Bridge,2022-08-01,190,33,0,157,"White hats returned ~$33mn; users get pro-rata share",https://www.theblock.co/post/193215/nomad-to-restart-bridge-after-190-million-hack-in-august

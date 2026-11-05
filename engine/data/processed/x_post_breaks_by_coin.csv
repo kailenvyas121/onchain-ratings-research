@@ -1,0 +1,159 @@
+coin,mech,broke,listed
+Aegis YUSD,fiat-backed,False,True
+Agora Dollar,fiat-backed,False,True
+Alchemix USD,algorithmic,True,True
+Anzen USDz,fiat-backed,True,True
+Anzens USDA,fiat-backed,False,True
+apxUSD,crypto-backed,False,True
+Astherus,crypto-backed,False,True
+Asymmetry USDaf V2,crypto-backed,False,True
+Avant USD,fiat-backed,False,True
+Axis USD,crypto-backed,False,True
+Bean,algorithmic,True,True
+Binance Peg BUSD,crypto-backed,False,True
+Binance USD,fiat-backed,False,True
+Bitcoin USD,crypto-backed,False,True
+BlackRock USD,fiat-backed,False,True
+BOB,crypto-backed,False,True
+Cap cUSD,crypto-backed,False,True
+CASH,fiat-backed,False,True
+Mento Dollar,algorithmic,False,True
+Citrea USD,fiat-backed,False,True
+crvUSD,crypto-backed,False,True
+Cygnus Finance Global USD,fiat-backed,False,True
+Dai,crypto-backed,False,True
+Defi.money,crypto-backed,False,True
+Dola,crypto-backed,False,True
+Dyad,crypto-backed,False,True
+Electronic USD,crypto-backed,False,True
+Elixir deUSD,crypto-backed,True,True
+eSui Dollar,crypto-backed,False,True
+Ethena USDe,crypto-backed,False,True
+Telcoin eUSD,fiat-backed,False,True
+eUSD,crypto-backed,False,True
+eUSD (V2),crypto-backed,True,True
+fxUSD,crypto-backed,False,True
+Falcon USD,crypto-backed,False,True
+Fei USD,algorithmic,True,True
+Felix feUSD,crypto-backed,False,True
+Fidelity Digital Dollar,fiat-backed,False,True
+First Digital USD,fiat-backed,False,True
+Frax USD,fiat-backed,False,True
+Frax,algorithmic,False,True
+GAIB AID,fiat-backed,False,True
+Gemini Dollar,fiat-backed,False,True
+GHO,crypto-backed,False,True
+Global Dollar,fiat-backed,False,True
+GRAI,crypto-backed,False,True
+Gate USD,fiat-backed,False,True
+Gyroscope GYD,crypto-backed,False,True
+Hedge USD,crypto-backed,False,True
+Lista USD,crypto-backed,True,True
+Hermetica USDh,fiat-backed,False,True
+Bera USD,crypto-backed,False,True
+HUSD,fiat-backed,True,True
+Hydrated Dollar,crypto-backed,False,True
+infiniFi USD,crypto-backed,False,True
+iUSD,crypto-backed,True,True
+JupUSD,crypto-backed,False,True
+USDJ,crypto-backed,False,True
+Level USD,crypto-backed,False,True
+Lift Dollar,fiat-backed,False,True
+Liquid Loans USDL,crypto-backed,False,True
+Liquity BOLD,crypto-backed,False,True
+Liquity USD,crypto-backed,False,True
+Magic Internet Money,crypto-backed,True,True
+Main Street USD,crypto-backed,True,True
+MegaUSD,crypto-backed,False,True
+Metamask USD,crypto-backed,False,True
+Metronome Synth USD,crypto-backed,True,True
+Mezo USD,crypto-backed,False,True
+MNEE USD,fiat-backed,False,True
+USDM,fiat-backed,False,True
+Move Dollar,crypto-backed,False,True
+Mu Digital AZND,crypto-backed,True,True
+mStable USD,crypto-backed,False,True
+Nectar,crypto-backed,False,True
+Neutrino USD,algorithmic,True,True
+Noble Dollar,fiat-backed,False,True
+Noon USN,crypto-backed,False,True
+Neutrl USD,crypto-backed,False,True
+sUSD,crypto-backed,True,True
+NXUSD,crypto-backed,False,True
+Ondo U.S. Dollar Token,fiat-backed,False,True
+Open USD,fiat-backed,False,True
+OpenDollar USDO,fiat-backed,False,True
+Orby USC,crypto-backed,True,True
+Origin Dollar,crypto-backed,False,True
+DAI+,crypto-backed,False,True
+Parrot USD,crypto-backed,False,True
+PathUSD,fiat-backed,False,True
+Pax Dollar,fiat-backed,False,True
+PayPal USD,fiat-backed,False,True
+Pinto,crypto-backed,True,True
+Pleasing USD,crypto-backed,False,True
+Plume USD,crypto-backed,False,True
+Polymarket USD,crypto-backed,False,True
+pmUSD,crypto-backed,True,True
+STAR,crypto-backed,False,True
+mkUSD,crypto-backed,False,True
+Quantoz USDQ,fiat-backed,False,True
+Real USD,algorithmic,True,True
+Reservoir Stablecoin,fiat-backed,False,True
+Resolv USD,crypto-backed,True,True
+Resupply USD,crypto-backed,False,True
+Rings scUSD,crypto-backed,False,True
+Ripple USD,fiat-backed,False,True
+River Stablecoin,crypto-backed,False,True
+Saturn Dollar,crypto-backed,False,True
+SoFiUSD,fiat-backed,False,True
+SoulPeg USD,crypto-backed,False,True
+Sperax USD,crypto-backed,False,True
+Stable Mint USD,fiat-backed,False,True
+StandX DUSD,crypto-backed,False,True
+StraitsX XUSD,fiat-backed,False,True
+TerraClassicUSD,algorithmic,True,True
+Tether,fiat-backed,False,True
+dForce USD,crypto-backed,True,True
+TOR,crypto-backed,True,True
+Tori trUSD,crypto-backed,False,True
+TrueUSD,fiat-backed,False,True
+United Stables,crypto-backed,False,True
+XSY UTY,crypto-backed,False,True
+Unity USD,crypto-backed,False,True
+Universal USD,fiat-backed,False,True
+USAT,fiat-backed,False,True
+USD Coin,fiat-backed,False,True
+USD CoinVertible,fiat-backed,False,True
+Overnight USD+,crypto-backed,False,True
+World Liberty Financial USD,fiat-backed,False,True
+AP USDA,fiat-backed,True,True
+USD.AI,crypto-backed,False,True
+USDB Blast,crypto-backed,False,True
+USDD,crypto-backed,False,True
+USDGO,fiat-backed,False,True
+USDH Stablecoin,fiat-backed,False,True
+USDKG,fiat-backed,False,True
+Western Union USDPT,fiat-backed,False,True
+Sky Dollar,crypto-backed,False,True
+Sui Dollar,fiat-backed,False,True
+Ethena USDtb,fiat-backed,False,True
+Unitas,crypto-backed,False,True
+USDX Money USDX,crypto-backed,True,True
+USDX,crypto-backed,True,True
+Usual USD,fiat-backed,False,True
+Solstice USX,crypto-backed,False,True
+UXD Stablecoin,algorithmic,False,True
+Vai,crypto-backed,True,True
+Verified USD,fiat-backed,False,True
+Worldwide USD,fiat-backed,False,True
+YLDS,fiat-backed,False,True
+Youves uUSD,crypto-backed,False,True
+YU,crypto-backed,True,True
+YUSD Stablecoin,crypto-backed,True,True
+Yuzu USD,crypto-backed,False,True
+IRON (Iron Finance),algorithmic,True,False
+Basis Cash,algorithmic,True,False
+Empty Set Dollar,algorithmic,True,False
+Dynamic Set Dollar,algorithmic,True,False
+DEI (Deus Finance),algorithmic,True,False

@@ -1,0 +1,3 @@
+direction,crossings,vault_years_at_risk,per_year,prob_within_1y_pct,sp_bond_benchmark_pct
+investment grade (A+/A) -> junk-equivalent,6,2.2559890485968523,2.6595873786407758,93.00229101696283,9.08
+junk-equivalent -> investment grade,6,3.6139630390143735,1.6602272727272729,80.99042283928058,12.67

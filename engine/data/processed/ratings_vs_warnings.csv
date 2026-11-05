@@ -1,0 +1,22 @@
+kind,rater,event,pct,flow_6d
+rating,Credora,Spark Savings USDT A-->A 2026-07-06,2.312138728323699,
+rating,Credora,Spark Savings USDT A->A- 2026-07-20,41.040462427745666,
+rating,Credora,Spark Savings USDT A-->A 2026-07-27,34.104046242774565,
+rating,Credora,Spark Savings USDT A->A- 2026-08-17,47.398843930635834,
+rating,Credora,Lista BNB vault A->A- 2026-09-04,53.20197044334976,
+rating,Credora,Lista BNB vault A-->B+ 2026-09-09,51.72413793103448,
+rating,Credora,Lista BNB vault B+->A- 2026-09-22,20.689655172413794,
+rating,Credora,Lista BNB vault A-->B+ 2026-09-29,15.270935960591132,
+rating,Credora,Lista USD1 vault B->A- 2026-05-27,83.9572192513369,
+rating,Credora,Lista USD1 vault A-->B+ 2026-09-04,36.36363636363637,
+rating,Credora,Lista USD1 vault B+->B- 2026-09-09,79.67914438502673,
+rating,Credora,Lista USD1 vault B-->B 2026-09-22,59.35828877005348,
+rating,S&P,S&P cuts USDT to 5 'weak' (7d),5.6367432150313155,
+rating,S&P,S&P rates Sky B- / USDS 4 (7d),2.586206896551724,
+rating,Moody's,Moody's rates Sky B3 (3d),78.16091954022988,
+warning,-,Morpho xUSD market 2025-10-28,0.0,-97.11568766404442
+"stress, no warning",-,Morpho xUSD market 2025-10-10,83.33333333333334,90.87975764426916
+warning,-,Stream Finance 2025-10-28,1.2121212121212122,-22.673930831816456
+"stress, no warning",-,Stream Finance 2025-10-10,85.35825545171339,13.000725633847354
+warning,-,Elixir 2025-10-28,2.727272727272727,-20.070768729000033
+"stress, no warning",-,Elixir 2025-10-10,28.037383177570092,-3.611375347791801

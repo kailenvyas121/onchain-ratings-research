@@ -1,0 +1,4 @@
+mech,coins,coin_years,events,coins_ever_depegged,events_per_100_coin_years,share_coins_ever_depegged_pct
+algorithmic,9,44,24,5,54.5,55.6
+crypto-backed,90,212,51,31,24.1,34.4
+fiat-backed,54,133,10,8,7.5,14.8

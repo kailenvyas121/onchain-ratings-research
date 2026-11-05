@@ -1,0 +1,5 @@
+engine/data/raw/
+__pycache__/
+*.pyc
+.DS_Store
+.pytest_cache/
