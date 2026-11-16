@@ -4,7 +4,7 @@ Do crypto credit ratings mean anything yet? Rating agencies started grading DeFi
 
 All the data, code and charts are here. Every number traces to a public source.
 
-By **Kailen Vyas** (research for *On The Block*, Oct–Nov 2026).
+By **Kailen Vyas**, sole author. A university research project, written for *On The Block*, Oct–Nov 2026.
 
 ---
 
@@ -55,7 +55,7 @@ The algorithmic group includes five dead coins that DefiLlama no longer lists, a
 ![Who paid back](2_Charts/x_post/x7_who_paid_back.png)
 
 ### 6. Ratings did not move money; warnings did (Credora study)
-- We built a panel of 260 weekly Credora grades on 10 vaults (Spark and Lista), Feb–Oct 2026.
+- I built a panel of 260 weekly Credora grades on 10 vaults (Spark and Lista), Feb–Oct 2026.
 - **80%** of grades display an "A". Only **37%** are investment grade by Credora's own conversion table (A- maps to BB+/BB).
 - After Credora downgrades, deposits barely moved: the average 7-day change across 7 downgrades was **−0.2%**.
 - After a public warning about Stream (28 Oct 2025), lenders in the Morpho xUSD market pulled **97%** within a week.
